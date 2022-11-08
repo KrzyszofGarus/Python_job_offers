@@ -66,15 +66,16 @@ for job_offer in only_python:
     except:
         pass
 ```
-Poniższy histogram jest wynikiem przetworzenia ofert B2B - im wyższy słupek tym więcej ofert z taką stawką
+Poniższe dwa histogramy są wynikiem przetworzenia ofert - im wyższy słupek tym więcej ofert z taką stawką - kolorem czerwonym oznaczono wartości początkowe widełek
+a końcowe niebieskim
 
-![b2b_python](https://user-images.githubusercontent.com/117105005/200649758-cc9f8b20-0645-49c6-b13e-cce8382faf2d.png)
-
-Poniższy histogram jest wynikiem przetworzenia ofert B2B - im wyższy słupek tym więcej ofert z taką stawką
-
-![perm_python](https://user-images.githubusercontent.com/117105005/200649763-fd30e287-9d71-4624-b985-4f4825acf6e2.png)
+![b2b_python](https://user-images.githubusercontent.com/117105005/200651885-0ab41fd2-7a19-47b6-92c1-de6c8b3d1745.png)
+![perm_python](https://user-images.githubusercontent.com/117105005/200651894-749f2ce2-8782-4ca8-a2fa-c826191b1d81.png)
 
 
+Wnioski są proste - opłaca się być programistą ;)
+
+![python_army](https://user-images.githubusercontent.com/117105005/200650987-9574ae0f-8ff9-4203-8b7a-cfb2a2d23c30.jpg)
 
 
 
