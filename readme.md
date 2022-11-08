@@ -1,6 +1,6 @@
 # Przykład użycia biblioteki requests oraz przetwarzanie danych
 
-Moim zadaniem było sprawdzenie średnich widełek płacowych ofert dla programistów Pythona ze strony https://justjoin.it/
+Moim zadaniem było sprawdzenie widełek płacowych ofert dla programistów Pythona ze strony https://justjoin.it/
 
 Użyłem biblioteki requests aby zaimportować dane z API co dało mi 17441 ofert na moment wykonania zapytania
 ```py
@@ -66,13 +66,15 @@ for job_offer in only_python:
     except:
         pass
 ```
-<p align="center">
-  <img src="http://some_place.com/image.png](https://user-images.githubusercontent.com/117105005/200648395-60d7c96b-b403-4ae8-8906-b4555555c69a.png" />
-</p>
-<p align="center">
-src=https://user-images.githubusercontent.com/117105005/200648395-60d7c96b-b403-4ae8-8906-b4555555c69a.png)
-</p>
-![perm_python](https://user-images.githubusercontent.com/117105005/200648416-11b4cd07-d25f-4810-ba7e-52de95b72cbd.png)
+Poniższy histogram jest wynikiem przetworzenia ofert B2B - im wyższy słupek tym więcej ofert z taką stawką
+
+![b2b_python](https://user-images.githubusercontent.com/117105005/200649758-cc9f8b20-0645-49c6-b13e-cce8382faf2d.png)
+
+Poniższy histogram jest wynikiem przetworzenia ofert B2B - im wyższy słupek tym więcej ofert z taką stawką
+
+![perm_python](https://user-images.githubusercontent.com/117105005/200649763-fd30e287-9d71-4624-b985-4f4825acf6e2.png)
+
+
 
 
 
